@@ -1,0 +1,5 @@
+1,Petr,Fridrich,43,777494001
+2,Petr,Fridrich,15,604230167
+3,Kamila,Horáková,20,720123456
+4,testsmezerou,tests mezerou,66,123456789
+5,janek,novak,55,123456789
